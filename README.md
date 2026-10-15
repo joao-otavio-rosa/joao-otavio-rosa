@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o João Otávio da Rosa
 
-🚀 **Desenvolvedor de Software | C#, Java & Web Specialist**  
+🚀 **Desenvolvedor de Software | C# & Java**  
 🇧🇷 Amparo, SP - Brasil
 
 Atualmente cursando Ensino Médio Técnico em Desenvolvimento de Sistemas na ETEC João Belarmino. Atuo no **desenvolvimento de APIs RESTful robustas** com **ASP.NET** e **Spring**, além da criação de **aplicações desktop** e **interfaces web modernas**, sempre prezando por arquitetura em camadas, código limpo e boas práticas de desenvolvimento.
