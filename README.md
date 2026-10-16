@@ -9,7 +9,7 @@ Atualmente cursando Ensino Médio Técnico em Desenvolvimento de Sistemas na ETE
 
 ## 🧠 O que eu faço
 
-- ⚡ **Construção de APIs RESTful**: Desenvolvimento de serviços backend escaláveis utilizando **ASP.NET (.NET Framework)** e **Spring** (Java)
+- ⚡ **Construção de APIs RESTful**: Desenvolvimento de serviços backend escaláveis utilizando **ASP.NET (.NET Core)** e **Spring** (Java)
 - 🏗️ **Aplicações Desktop**: Criação de sistemas desktop com C#, WPF, XAML e padrão de arquitetura MVVM
 - 🧩 **Arquitetura & Clean Code**: Organização de código em camadas, aplicando boas práticas de programação e facilidade de manutenção
 - 💾 **Bancos de Dados Relacionais**: Modelagem e manipulação de dados utilizando SQL Server e PostgreSQL
